@@ -2,6 +2,8 @@
 
 I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency and high-level Machine Learning intelligence.
 
+Looking for internship opportunities this summer of 2026! (June 22nd until September 4th)
+
 ### 🛠️ Technical Focus
 * **AI/ML:** Specializing in multimodal systems and emotional context awareness (Project **Sentio**).
 * **Systems:** Deep interest in AI/ML, low-level optimization, memory management, and system programming.
@@ -24,4 +26,4 @@ I am a **Software Engineering & Computer Science** student at Sungkyunkwan Unive
 
 📫 **How to reach me:** [E-mail](sorayaahussain@gmail.com) / [linkedin](https://www.linkedin.com/in/sorayahussain/)
 
-🎨 **Check Out My Portfolio!** sorayahussain.art.blog
+🎨 **Check Out My Portfolio!** [Portfolio](sorayahussain.art.blog)
