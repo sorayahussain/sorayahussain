@@ -22,4 +22,4 @@ Looking for internship opportunities this summer of 2026! (June 22nd until Septe
 
 📫 **How to reach me:** [E-mail](sorayaahussain@gmail.com) / [linkedin](https://www.linkedin.com/in/sorayahussain/)
 
-🎨 **Check Out My Portfolio!** [Portfolio](sorayahussain.art.blog)
+🎨 **Check Out My Portfolio!** [Portfolio](https://sorayahussain.art.blog)
