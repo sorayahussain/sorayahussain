@@ -20,10 +20,6 @@ Looking for internship opportunities this summer of 2026! (June 22nd until Septe
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
 📫 **How to reach me:** [E-mail](sorayaahussain@gmail.com) / [linkedin](https://www.linkedin.com/in/sorayahussain/)
 
 🎨 **Check Out My Portfolio!** [Portfolio](sorayahussain.art.blog)
