@@ -19,9 +19,9 @@ I am a **Software Engineering & Computer Science** student at Sungkyunkwan Unive
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-📫 **How to reach me:** sorayaahussain@gmail.com / linkedin.com/sorayahussain
+📫 **How to reach me:** [E-mail](sorayaahussain@gmail.com) / [linkedin](https://www.linkedin.com/in/sorayahussain/)
 
 🎨 **Check Out My Portfolio!** sorayahussain.art.blog
