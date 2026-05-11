@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**sorayahussain/sorayahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency and high-level Machine Learning intelligence.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Focus
+* **AI/ML:** Specializing in multimodal systems and emotional context awareness (Project **Sentio**).
+* **Systems:** Deep interest in low-level optimization, memory management, and system programming.
+* **Research:** Exploring the intersection of high-level physics and data challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Core Stack
+* **Languages:** Python, C, C++, Java, Kotlin
+* **Tools/Frameworks:** PyTorch, TensorFlow, Linux Kernel, Git
+
+### 🏫 Leadership & Impact
+* **Academic Tutor:** Teaching System Programming and Data Structures—helping peers master complex concepts.
+* **Freshman Advisor (OISS):** Supporting international students in navigating university life and academic roadmaps.
+* **Multimedia Lead:** Managing digital content and organizational branding for campus groups.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+📫 **How to reach me:** sorayaahussain@gmail.com / linkedin.com/sorayahussain
