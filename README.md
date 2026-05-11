@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Soraya 👋
 
 I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency and high-level Machine Learning intelligence.
 
 ### 🛠️ Technical Focus
 * **AI/ML:** Specializing in multimodal systems and emotional context awareness (Project **Sentio**).
-* **Systems:** Deep interest in low-level optimization, memory management, and system programming.
-* **Research:** Exploring the intersection of high-level physics and data challenges.
+* **Systems:** Deep interest in AI/ML, low-level optimization, memory management, and system programming.
+* **Research:** Exploring the intersection of LLMs and data challenges.
 
 ### 👨‍💻 Core Stack
 * **Languages:** Python, C, C++, Java, Kotlin
@@ -14,7 +14,7 @@ I am a **Software Engineering & Computer Science** student at Sungkyunkwan Unive
 ### 🏫 Leadership & Impact
 * **Academic Tutor:** Teaching System Programming and Data Structures—helping peers master complex concepts.
 * **Freshman Advisor (OISS):** Supporting international students in navigating university life and academic roadmaps.
-* **Multimedia Lead:** Managing digital content and organizational branding for campus groups.
+* **Multimedia Lead:** Managing digital content and organizational branding for club activities under MAGIK.
 
 ---
 
@@ -23,3 +23,5 @@ I am a **Software Engineering & Computer Science** student at Sungkyunkwan Unive
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 📫 **How to reach me:** sorayaahussain@gmail.com / linkedin.com/sorayahussain
+
+🎨 **Check Out My Portfolio!** sorayahussain.art.blog
