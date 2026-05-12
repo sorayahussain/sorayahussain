@@ -1,4 +1,4 @@
-# Hi there, I'm Soraya 👋
+# Hi! I'm Soraya :)
 
 I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency and high-level Machine Learning intelligence.
 
@@ -22,10 +22,6 @@ Looking for internship opportunities this summer of 2026! (June 22nd until Septe
 ![](https://streak-stats.demolab.com/?user=sorayahussain&theme=blue-green&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sorayahussain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://komarev.com/ghpvc/?username=sorayahussain&icon=0&color=0)](https://visitcount.itsvg.in)
