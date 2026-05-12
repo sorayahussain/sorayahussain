@@ -1,4 +1,4 @@
-# Hi! I'm Soraya :)
+# Hi! I'm [Soraya](https://sorayahussain.art.blog) :)
 
 I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency and high-level Machine Learning intelligence.
 
