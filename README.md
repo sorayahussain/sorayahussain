@@ -1,6 +1,6 @@
 # Hi! I'm [Soraya](https://sorayahussain.art.blog) :)
 
-I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency and high-level Machine Learning intelligence.
+I am a **Software Engineering & Computer Science** student at Sungkyunkwan University (SKKU) with a passion for bridging the gap between low-level system efficiency, explainable AI (XAI), HITL AI (Human-in-the-Loop) and high-level Machine Learning intelligence.
 
 Looking for internship opportunities this summer of 2026! (June 22nd until September 4th)
 
