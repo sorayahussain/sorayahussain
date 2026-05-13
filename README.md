@@ -24,7 +24,6 @@ Looking for internship opportunities this summer of 2026! (June 22nd until Septe
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sorayahussain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sorayahussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
